@@ -1,5 +1,5 @@
 import unittest
-from medicine_tracker import (
+from skeleton import (
     calculate_strips,
     calculate_loose,
     calculate_discount,
